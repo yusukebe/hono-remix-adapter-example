@@ -18,12 +18,15 @@
     "@remix-run/cloudflare": "^2.13.1",
     "@remix-run/react": "^2.13.1",
     "@remix-run/server-runtime": "^2.13.1",
+    "hono": "^4.6.9",
+    "hono-remix-adapter": "^0.4.1",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241106.0",
+    "@hono/vite-dev-server": "^0.16.0",
     "@remix-run/dev": "^2.13.1",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
